@@ -1,0 +1,6 @@
+venv
+.idea
+credentials.py
+vk_config.v2.json
+__pycache__/main.cpython-37.pyc
+__pycache__/credentials.cpython-37.pyc
